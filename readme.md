@@ -1,8 +1,6 @@
 # Coursera Machine Learning Assignments in Python
 
-These are Python code for Machine Learning Assignments from Coursera,the one taught by Andrew Ng. You can find the course here: 
-
-https://www.coursera.org/course/ml 
+These are Python code for Machine Learning Assignments from Coursera,the one taught by Andrew Ng. You can find the course here: https://www.coursera.org/course/ml 
 
 ## About
 
