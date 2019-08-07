@@ -56,7 +56,7 @@ for i in range(0,x_theta0.size):
 z_J = np.transpose(z_J)
 
 fig = plt.figure(1)
-ax = fig.gca(projection='3d')  #得到一个Axes3D对象
+ax = fig.gca(projection='3d')  #get a Axes3D object
 ax.plot_surface(xx, yy, z_J)
 
 plt.figure(2)
